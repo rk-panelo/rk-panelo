@@ -6,7 +6,7 @@
 ## 🌐 Connect with Me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rkpanelo) <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rei-kristian-panelo) <br>
-![](https://dcbadge.vercel.app/api/shield/roarkei)
+[![Discord](https://dcbadge.vercel.app/api/shield/roarkei)
 
 
 # 💻 Tech Stack 📫:
