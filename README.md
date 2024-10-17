@@ -8,7 +8,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rei-kristian-panelo) <br>
 
 
-# 💻 Tech Stack 📫:
+# 💻 Tech Stack:
 Web Development:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) 
 
@@ -24,6 +24,7 @@ Design Tools:
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+# 📫 Interest:
 - 👀 I’m interested in Full-Stack Development and Data Analysis
 - 💞️ I’m looking to collaborate on meaningful projects while experiencing growth.
 
