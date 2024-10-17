@@ -4,8 +4,9 @@
 <h4 align="left"><sub>An Aspiring Software Engineer and Data Analyst from the Philippines.</sub></h4>
 
 ## 🌐 Connect with Me:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rkpanelo) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rei-kristian-panelo) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rkpanelo) <br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rei-kristian-panelo) <br>
+https://dcbadge.limes.pink/api/shield/roarkei
 
 
 # 💻 Tech Stack 📫:
